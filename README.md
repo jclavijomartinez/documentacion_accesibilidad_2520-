@@ -10,7 +10,7 @@ Esta guía te ayudará a realizar los primeros pasos para iniciar Kolibri por pr
 2. Ingresar a la IP asignada al servidor.  
    Ejemplo: `http://192.168.1.101:8080`
 
-![Acceso a IP](https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/1ingresoaPlataforma.png)
+![Acceso a IP](https://github.com/jclavijomartinez/documentacion_accesibilidad_2520-/blob/master/imgs/1ingresoaPlataforma.png?raw=true)
 
 ---
 
@@ -18,14 +18,14 @@ Esta guía te ayudará a realizar los primeros pasos para iniciar Kolibri por pr
 
 1. Selecciona el idioma en el que va a estar kolibri, como el contenido del curso está en español, es el recomendado.
 
-![idioma]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/2idioma.png)
+![idioma]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/2idioma.png)
 
 ## Paso 3: Configurar tipo de centro donde estará kolibri
 
 1. Selecciona si Kolibri estará en una biblioteca, centro juvenil u otro entorno.
 2. La recomendación es poner la opcion formal y de nombre: Biblioteca Alfonso Borrero Cabal S.J.
 
-![Tipo de establecimiento]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/3tipoDeLugar.png)
+![Tipo de establecimiento]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/3tipoDeLugar.png)
 
 ---
 
@@ -33,7 +33,7 @@ Esta guía te ayudará a realizar los primeros pasos para iniciar Kolibri por pr
 
 1. La recomendación es que SI, se permita ver el contenido sin iniciar sesion o crear cuenta
 
-![Configuración de cuentas]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/4accesoComoInvitado.png)
+![Configuración de cuentas]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/4accesoComoInvitado.png)
 
 ---
 
@@ -41,7 +41,7 @@ Esta guía te ayudará a realizar los primeros pasos para iniciar Kolibri por pr
 
 1. La recomendación para este numeral es que los administradores tengan que crear las cuentas de estudiantes, poner NO.
 
-![Modo de acceso]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/5cuentaEstudiante.png)
+![Modo de acceso]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/5cuentaEstudiante.png)
 
 ---
 
@@ -49,7 +49,7 @@ Esta guía te ayudará a realizar los primeros pasos para iniciar Kolibri por pr
 
 1. La recomendación para este numeral es que, como se busca que cualquiera tenga acceso al contenido del curso, poner NO.
 
-![Modo de acceso]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/6contrase%C3%B1ascuentasest.png)
+![Modo de acceso]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/6contrase%C3%B1ascuentasest.png)
 
 ---
 
@@ -57,7 +57,7 @@ Esta guía te ayudará a realizar los primeros pasos para iniciar Kolibri por pr
 
 1. Crea la cuenta de **superadministrador**: esta tendrá control total sobre la plataforma. proporcionar nombre completo, crear el nombre para el super usuario y la contraseña. TENER MUY EN CUENTA CREAR CONTRASEÑAS SEGURAS.
 
-![Modo de acceso]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/7cuentaSuperusuario.png)
+![Modo de acceso]( https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/7cuentaSuperusuario.png)
 
 ---
 
@@ -70,17 +70,17 @@ Esta guía te ayudará a realizar los primeros pasos para iniciar Kolibri por pr
    - Red local  
    - Unidad de almacenamiento conectada  
 
-   ![Fuentes de importación](https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/8punto2fuentesImportacion.png)
+   ![Fuentes de importación](https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/8punto2fuentesImportacion.png)
 
 3. Para importar el contenido de este curso, ingresa el token `zazuz-kogan` en el campo correspondiente.  
 
-   ![Token](https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/8punto3punto1token.png)
+   ![Token](https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/8punto3punto1token.png)
 
-   ![ingresar token](https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/8punto3punto2token.png)
+   ![ingresar token](https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/8punto3punto2token.png)
 
 4. Selecciona la carpeta donde está el contenido del curso y haz clic en **"Importar"**.  
 
-   ![Seleccionar carpeta](https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/8punto4carpeta.png)
+   ![Seleccionar carpeta](https://raw.githubusercontent.com/jclavijomartinez/documentacion_accesibilidad_2520-/refs/heads/master/imgs/8punto4carpeta.png)
 
 5. Espera a que se descarguen los recursos desde internet y haz clic en **"Cerrar"** cuando finalice.
 
